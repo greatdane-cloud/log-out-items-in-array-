@@ -1,0 +1,1 @@
+# log-out-items-in-array-
